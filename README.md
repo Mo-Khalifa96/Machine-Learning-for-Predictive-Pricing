@@ -73,7 +73,7 @@ the corresponding sale price for each house.** <br>
 Here's a screenshot with a sample of the dataset:
 <br> 
 
-<img src="sales data screenshot.jpg" alt="https://github.com/Mo-Khalifa96/Machine-Learning-for-Predictive-Pricing/blob/main/house%20sales%20screenshot.jpg" width="800"/>
+<img src="house sales screenshot.jpg" alt="https://github.com/Mo-Khalifa96/Machine-Learning-for-Predictive-Pricing/blob/main/house%20sales%20screenshot.jpg" width="800"/>
 
 <br>
 <br> 
@@ -96,11 +96,11 @@ icon on the notebook toolbar.**
 <br>
 <br>
 ***To view the project only, click on the following link:*** <br>
-https://nbviewer.org/...
+https://nbviewer.org/github/Mo-Khalifa96/Machine-Learning-for-Predictive-Pricing/blob/main/ML%20for%20Predictive%20Pricing%20%28Predictive%20House%20Prices%29%20-%20Jupyter%20version.ipynb
 <br>
 <br>
 ***Alternatively, to view the project and interact with its code, click on the following link:*** <br>
-https://mybinder.org/v2/...
+https://mybinder.org/v2/gh/Mo-Khalifa96/Machine-Learning-for-Predictive-Pricing/main?labpath=ML%20for%20Predictive%20Pricing%20(Predictive%20House%20Prices)%20-%20Jupyter%20version.ipynb
 <br>
 <br>
 

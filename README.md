@@ -73,7 +73,7 @@ the corresponding sale price for each house.** <br>
 Here's a screenshot with a sample of the dataset:
 <br> 
 
-<img src="sales data screenshot.jpg" alt="https://github.com/Mo-Khalifa96/Machine-Learning-for-Predictive-Pricing/blob/main/house%20sales%20screenshot.jpg"  width="800"/>
+<img src="sales data screenshot.jpg" alt="https://github.com/Mo-Khalifa96/Machine-Learning-for-Predictive-Pricing/blob/main/house%20sales%20screenshot.jpg" width="800"/>
 
 <br>
 <br> 

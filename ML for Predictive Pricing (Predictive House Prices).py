@@ -271,7 +271,7 @@ ax1 = sns.distplot(y_train, hist=False, ax=axes[0], label='Actual Values (Traini
 sns.distplot(Y_pred_train, hist=False, ax=ax1, label='Predicted Values (Training)')
 #Visualizing model fitting for testing set 
 ax2 = sns.distplot(y_test, hist=False, ax=axes[1], label='Actual Values (Testing)')
-sns.distplot(Y_pred_test, hist=False, ax=ax2, label='Predicted Values (Testing')
+sns.distplot(Y_pred_test, hist=False, ax=ax2, label='Predicted Values (Testing)')
 
 #Adding titles and labeling the axes 
 fig.suptitle('Model performance in-sample vs. out-of-sample')
@@ -373,7 +373,7 @@ ax1 = sns.distplot(y_train, hist=False, ax=axes[0], label='Actual Values (Traini
 sns.distplot(Y_pred_train, hist=False, ax=ax1, label='Predicted Values (Training)')
 #Visualizing model fitting for testing set 
 ax2 = sns.distplot(y_test, hist=False, ax=axes[1], label='Actual Values (Testing)')
-sns.distplot(Y_pred_test, hist=False, ax=ax2, label='Predicted Values (Testing')
+sns.distplot(Y_pred_test, hist=False, ax=ax2, label='Predicted Values (Testing)')
 
 #Adding titles and labeling the axes 
 fig.suptitle('Model performance in-sample vs. out-of-sample')

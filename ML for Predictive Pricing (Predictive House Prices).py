@@ -326,7 +326,7 @@ parameters = {'Polynomial__degree': [2,3,4,5],      #specifying the polynomials 
               'Model__alpha': [0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000]}     #specifying the alpha values to test out
 
 #Creating a grid object and specifying the cross-validation characteristics
-Grid = GridSearchCV(lasso_model, parameters, scoring='r2', cv=10) 
+Grid = GridSearchCV(lasso_model, parameters, scoring='r2', cv=10, n_jobs=10) 
 
 #Fitting the model with the training data for cross validation 
 Grid.fit(x_train, y_train)

@@ -5,9 +5,9 @@
 
 
 **This project utilizes machine learning algorithms to predict house prices based on a pool of characteristics, 
-ranging from the house square footage, to number of bathrooms, to how the house was graded by the relevant 
+ranging from the house square footage to the number of bathrooms to how the house was graded by the relevant 
 authorities. It was originally completed as part of the final project for my course, 'Data Analysis with 
-Python', offered online by IBM, howeve I expanded upon it to showcase more skills and techniques learnt 
+Python', offered online by IBM, however I expanded upon it to showcase more skills and techniques learnt 
 through the course and make it wider in scope.**
 <br>
 <br>
@@ -35,7 +35,7 @@ the dataset. Finally, the best model is selected and used to generate prediction
 
 
 ## About The Dataset 
-**The dataset being used here was taken from Kaggle.com, a popular website for finding and publishing dataset. 
+**The dataset being used here was taken from Kaggle.com, a popular website for finding and publishing datasets. 
 You can quickly access it by clicking [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01). It presents house sales 
 in Seattle-King County made between May 2014 to May 2015, and consisting of different house characteristics and 
 the corresponding sale price for each house.** <br> 
@@ -87,9 +87,9 @@ machine learning models for tasks such as predictive pricing.**
 ## Quick Access 
 **For a quick access to the program, you can click on either of the links below. The first one renders the project 
 ready for viewing whilst the second enables you to both view the code and also interact with it. Both links will 
-direct you to a Jupyter notebook with the code and its resulting output, segregated and organized into seperate blocks 
+direct you to a Jupyter notebook with the code and its resulting output, segregated and organized into separate blocks 
 and provided with in-depth explanations or conclusions. If you wish to execute the code or reproduce the analysis results 
-from the second link, make sure to run the first two cells, which will allow you install and import all the Python packages 
+from the second link, make sure to run the first two cells, which will allow you to install and import all the Python packages 
 that will be used across the project. To run any given block of code, you have to simply select the cell and click on the 'Run' 
 icon on the notebook toolbar.**
 <br>
